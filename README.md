@@ -75,6 +75,6 @@ Se recomienda deshabilitar la autenticación por contraseña en ambientes de pro
 El usuario servidor se creó únicamente con fines educativos y puede eliminarse posteriormente
 ## Autor
 Nombre: Joan Daniel Rivas Andrade
-Materia: Seguridad / Redes
+Materia: Cyberseguridad
 Profesor: Cristhian Iza
 Fecha: Septiembre 2025
