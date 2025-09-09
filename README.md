@@ -30,3 +30,17 @@ sudo apt install openssh-server -y
 sudo systemctl enable ssh
 sudo systemctl start ssh
 sudo systemctl status ssh
+```
+# Verificación, Configuración y Conexión SSH en Kali Linux
+
+## 2. Verificar el puerto y las interfaces donde escucha SSH
+
+```bash
+sudo ss -tlnp | grep ssh
+```
+
+## 2. Crear un usuario “servidor”
+
+```bash
+sudo adduser servidor
+```
